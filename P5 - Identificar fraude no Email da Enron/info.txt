@@ -1,0 +1,5 @@
+* Desenvolvido em python versão 2
+* Incluido arquivo 'feature_format.py' para formatação do feature
+* Não foi modificado o código do arquivo 'tester.py'
+
+

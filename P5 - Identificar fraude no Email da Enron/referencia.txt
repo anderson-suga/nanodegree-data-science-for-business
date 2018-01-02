@@ -1,0 +1,6 @@
+http://scikit-learn.org/stable/documentation.html
+https://en.wikipedia.org/wiki/Enron_scandal
+https://github.com/watanabe8760/uda-da-p5-enron-fraud-detection
+https://github.com/supernova16/DAND-P5-Machine-Learning
+http://blog.exsilio.com/all/accuracy-precision-recall-f1-score-interpretation-of-performance-measures/
+https://medium.com/as-m%C3%A1quinas-que-pensam/m%C3%A9tricas-comuns-em-machine-learning-como-analisar-a-qualidade-de-chat-bots-inteligentes-m%C3%A9tricas-1ba580d7cc96
