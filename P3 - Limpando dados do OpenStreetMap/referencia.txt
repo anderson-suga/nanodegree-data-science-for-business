@@ -1,0 +1,4 @@
+https://wiki.openstreetmap.org/wiki/Main_Page
+https://docs.python.org/3/library/index.html
+https://www.tutorialspoint.com/python/index.htm
+https://stackoverflow.com/questions/46126082/how-to-update-rows-in-a-csv-file

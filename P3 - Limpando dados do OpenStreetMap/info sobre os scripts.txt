@@ -1,0 +1,9 @@
+audit_street_name.py: audita e corrige os nomes das ruas
+audit_zip_code.py: audita e corrige CEP
+audit_city.py: audita e corrige os nomes da cidade
+data.py: cria os arquivos CSV através do OSM
+database.py: cria o banco de dados e as tabelas através dos arquivos CSV
+mapparser.py: procura pelas tags únicas
+query.py: realiza pesquisas na base sqlite com SQL
+sample.py: extrai "sample data" através do arquivo OSM
+tags.py: conta os tipos de tags
