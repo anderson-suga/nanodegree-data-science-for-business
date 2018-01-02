@@ -1,0 +1,5 @@
+http://ggplot2.tidyverse.org/reference/index.html
+http://sape.inf.usi.ch/quick-reference/ggplot2/colour
+http://www.sthda.com/english/wiki/ggplot2-colors-how-to-change-colors-automatically-and-manually
+https://www.r-bloggers.com/
+https://plot.ly/ggplot2/stat_smooth/
